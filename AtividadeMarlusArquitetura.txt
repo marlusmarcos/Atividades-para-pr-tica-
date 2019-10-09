@@ -1,0 +1,27 @@
+Aluno: Marlus Marcos
+
+Questão 1) Onde ficam armazenadas as variáveis, segmento de dados
+Questão 2) Onde ficam os segmentos de código
+Questão 3) Lable de inicio, o compilador usa a main
+Questão 4) O modelo Van só usa uma instrução e um dado.
+
+
+
+
+
+Regra dessa versão do mips
+--- 0x00400000 em hexadecimal
+400004
+400008
+
+
+
+8) 10010000
+9) Nada, se não existe segmentos de dados, a memória está vazia.
+10) Sempre da próxima instrução: PC = Program Counter em pc tem o enderço da próxima instruçõ,  é o contador de programa. Todo Processador tem que teer uma contador pc.
+11)Hexadecimal;
+12) Apontador de pilha, representa enddereços
+13)SP e GP (apontadores de pilha) começam com endereço padrão. Um diz a base e outro o topo.
+14)
+
+16) sim, registrador t0, que virou 45. pc também mudou pois el. 
